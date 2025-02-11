@@ -1,0 +1,20 @@
+/* Ajoute des styles personnalisés ici */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.hero-section {
+    padding: 100px 0;
+}
+
+.card {
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
